@@ -23,13 +23,13 @@ $ npx hardhat compile
 Deploy the contracts to Hardhat Network:
 
 ```sh
-$ npx hardhat run scripts/deploy-galery.script.js 
+$ npx hardhat run scripts/deploy-gallery.script.js 
 ```
 
 Deploy the contracts to a specific network, such as the Rinkeby testnet:
 
 ```sh
-$ npx hardhat run scripts/deploy-galery.script.js --network rinkeby
+$ npx hardhat run scripts/deploy-gallery.script.js --network rinkeby
 
 ```
 
