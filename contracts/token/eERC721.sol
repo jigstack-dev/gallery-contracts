@@ -15,7 +15,7 @@ import "../utils/EnumerableMap.sol";
 import "../utils/Strings.sol";
 
 /**
- * @title ERC721 Non-Fungible Token Standard basic implementation extension by Elint Tech
+ * @title ERC721 Non-Fungible Token Standard basic implementation extension by Jigstack & Elint Tech
  * Based off OpenZeppelin's library
  * @dev see https://eips.ethereum.org/EIPS/eip-721
  */
